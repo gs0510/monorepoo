@@ -1,0 +1,11 @@
+/*
+!apps/marketing
+!packages/hooks
+!packages/utils
+!packages/api
+!packages/config
+!packages/prisma
+!packages/oz-defender
+!packages/services
+!packages/types
+!patches/*
